@@ -1,0 +1,14 @@
+C:\Users\LFB\source\repos\chekken7\chekken7\obj\Debug\chekken7.csprojResolveAssemblyReference.cache
+C:\Users\LFB\source\repos\chekken7\chekken7\obj\Debug\chekken7.csproj.CoreCompileInputs.cache
+C:\Users\LFB\source\repos\chekken7\chekken7\bin\Debug\chekken7.exe.config
+C:\Users\LFB\source\repos\chekken7\chekken7\bin\Debug\chekken7.exe
+C:\Users\LFB\source\repos\chekken7\chekken7\bin\Debug\chekken7.pdb
+C:\Users\LFB\source\repos\chekken7\chekken7\obj\Debug\chekken7.exe
+C:\Users\LFB\source\repos\chekken7\chekken7\obj\Debug\chekken7.pdb
+C:\chekken7\chekken7\bin\Debug\chekken7.exe.config
+C:\chekken7\chekken7\bin\Debug\chekken7.exe
+C:\chekken7\chekken7\bin\Debug\chekken7.pdb
+C:\chekken7\chekken7\obj\Debug\chekken7.csprojResolveAssemblyReference.cache
+C:\chekken7\chekken7\obj\Debug\chekken7.csproj.CoreCompileInputs.cache
+C:\chekken7\chekken7\obj\Debug\chekken7.exe
+C:\chekken7\chekken7\obj\Debug\chekken7.pdb
